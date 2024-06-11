@@ -1,22 +1,22 @@
-# Brasserie Alteration
+# Alteration brewery
 
-Brasserie artisanale qui se démarque par l'intégration de moût de raisins et un travail exceptionnel des brasseurs Guillaume et Louis-Philippe. Les bieres de Alteration sont chaleureuse, douces en bouche et délicieuse. 
+A craft brewery that stands out by integrating grape must and showcasing the exceptional work of brewers Guillaume and Louis-Philippe. Alteration's beers are warm, smooth on the palate, and delicious.
 
-### Fondateurs:
+### Founders:
 - Guillaume Hébert
 - Louis-Philippe Rivest
 
-### Cathégorie de produit: 
-- Bieres
+### Product Category:
+- Beers
 
-### Particularité
-- Brassé avec moût de raisins
+### Special Feature:
+- Brewed with grape must
 
 ### Bières disponibles:
 
-| numero | nom | type | saveur |
+| number | name | type | flavor |
 | ------ | --- | ---- | ------ |
-| 24 | no.24 | belge | ciel |
-| 25 | no.25 | stout | paradis |
+| 24 | no.24 | white | apple and wine |
+| 25 | no.25 | belge | wild berries |
 
 
