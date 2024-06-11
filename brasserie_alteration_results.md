@@ -1,6 +1,11 @@
 # Alteration brewery
 
-A craft brewery that stands out by integrating grape must and showcasing the exceptional work of brewers Guillaume and Louis-Philippe. Alteration's beers are warm, smooth on the palate, and delicious.
+Founded in 2024, 
+a craft brewery that stands out by integrating grape must and showcasing the exceptional work of brewers Guillaume Hébert and Louis-Philippe. Alteration's beers are warm, smooth on the palate, and delicious.
+
+### Location:
+Located in Estrie region, Quebec, Canada
+
 
 ### Founders:
 - Guillaume Hébert
