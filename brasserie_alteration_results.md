@@ -1,6 +1,6 @@
 # Brasserie Alteration
 
-Brasserie artisanale qui se démarque par l'intégration de moue de raisins et un travail exceptionnel des brasseurs Guillaume et Louis-Philippe. Les bieres de Alteration sont chaleureuse, douces en bouche et délicieuse. 
+Brasserie artisanale qui se démarque par l'intégration de moût de raisins et un travail exceptionnel des brasseurs Guillaume et Louis-Philippe. Les bieres de Alteration sont chaleureuse, douces en bouche et délicieuse. 
 
 ### Fondateurs:
 - Guillaume Hébert
@@ -10,7 +10,7 @@ Brasserie artisanale qui se démarque par l'intégration de moue de raisins et u
 - Bieres
 
 ### Particularité
-- Brassé avec moue de raisins
+- Brassé avec moût de raisins
 
 ### Bières disponibles:
 
