@@ -29,9 +29,9 @@ French: Brasserie Alteration
 
 ### Available beers
 
-| number | name | type | flavor | alcool | brewing process | cost | grape must |
-| ------ | ---- | ---- | ------ | ------ | --------------- | ---- | ---------- |
-| 24 | no.24 | white | apple and wine | 7.8% | brewed with grape must | 16$ | Frontenac Noir |
-| 25 | no.25 | belge | wild berries and wine | 8.9% | brewed with grape must | 15$ | Frontenac Gris |
+| number | name | type | flavor | alcool | brewing process | cost | grape must | serving |
+| ------ | ---- | ---- | ------ | ------ | --------------- | ---- | ---------- | ------- |
+| 24 | no.24 | white | apple and wine | 7.8% | brewed with grape must | 16$ | Frontenac Noir | 8 celcius |
+| 25 | no.25 | belge | wild berries and wine | 8.9% | brewed with grape must | 15$ | Frontenac Gris | 12 celcius |
 
 * Prices are subject to change at any time
